@@ -92,3 +92,13 @@ body.historia {
   max-width: 800px;
   margin: 0 auto;
 }
+.historia h1 {
+  text-align: center;
+  color: #6a0dad; /* roxo mais escuro, combina com o site */
+  margin-bottom: 30px;
+}
+
+.historia p {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
