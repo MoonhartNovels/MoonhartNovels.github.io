@@ -75,3 +75,11 @@ p {
 .menu a:hover {
   text-decoration: underline;
 }
+.capa-livro {
+  display: block;
+  max-width: 300px;
+  width: 100%;
+  margin: 30px auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
