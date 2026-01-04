@@ -26,3 +26,29 @@ p {
   font-size: 1.1em;
   text-align: center;
 }
+.lista-historias {
+  list-style: none;
+  padding: 0;
+  margin-top: 30px;
+}
+
+.lista-historias li {
+  margin-bottom: 20px;
+  font-size: 1.1em;
+}
+
+.lista-historias a {
+  font-weight: bold;
+  color: #5b3fa6;
+  text-decoration: none;
+}
+
+.lista-historias a:hover {
+  text-decoration: underline;
+}
+
+.lista-historias span {
+  display: block;
+  font-size: 0.9em;
+  color: #555;
+}
