@@ -83,3 +83,12 @@ p {
   border-radius: 12px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
 }
+body.historia {
+  background-color: #f3e6ff; /* roxinho clarinho, suave para ler */
+  font-family: 'Georgia', serif; /* elegante e literário */
+  color: #2c2c2c; /* texto escuro para contraste */
+  line-height: 1.7; /* espaço entre linhas confortável */
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
