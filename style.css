@@ -116,3 +116,26 @@ body.historia {
 .historia a:hover {
   background-color: #4b0082;
 }
+.info-obra {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.capa-livro-info {
+  max-width: 200px;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.detalhes-obra p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.conteudo-historia p {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
